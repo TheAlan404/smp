@@ -136,7 +136,6 @@ type = "modrinth"
 id = "cc-tweaked"
 version = "ekffpGYP"
 
-
 [[mods]]
 type = "modrinth"
 id = "emi"
@@ -176,3 +175,38 @@ version = "MJ2OF7eg"
 type = "modrinth"
 id = "architectury-api"
 version = "WbL7MStR"
+
+[[mods]]
+type = "modrinth"
+id = "image2map"
+version = "T71Apams"
+
+[[mods]]
+type = "modrinth"
+id = "improved-inchling-origin"
+version = "CMwBLebQ"
+
+[[mods]]
+type = "modrinth"
+id = "apugli"
+version = "PDYXapHt"
+
+[[mods]]
+type = "modrinth"
+id = "universal-graves"
+version = "KaGNkIdU"
+
+[[mods]]
+type = "modrinth"
+id = "polymorph"
+version = "akZJjqpV"
+
+[[mods]]
+type = "modrinth"
+id = "slimeorigin"
+version = "yQzTujqg"
+
+[[mods]]
+type = "modrinth"
+id = "origin-furs"
+version = "YsNh3WnN"
