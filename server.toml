@@ -15,8 +15,164 @@ nogui = true
 
 [markdown]
 files = ["README.md"]
-auto_update = false
+auto_update = true
 
 [options]
 success_line = ""
 stop_command = ""
+
+[[mods]]
+type = "modrinth"
+id = "fabric-api"
+version = "ba99D9Qf"
+
+[[mods]]
+type = "modrinth"
+id = "lithium"
+version = "ZSNsJrPI"
+
+[[mods]]
+type = "modrinth"
+id = "ferrite-core"
+version = "unerR5MN"
+
+[[mods]]
+type = "modrinth"
+id = "krypton"
+version = "jiDwS0W1"
+
+[[mods]]
+type = "modrinth"
+id = "fabric-language-kotlin"
+version = "ZMokinzs"
+
+[[mods]]
+type = "modrinth"
+id = "create-origins"
+version = "2YRyvxvy"
+
+[[mods]]
+type = "modrinth"
+id = "origins"
+version = "OdNHB7Bh"
+
+[[mods]]
+type = "modrinth"
+id = "estrogen"
+version = "Fbz77g1I"
+
+[[mods]]
+type = "modrinth"
+id = "create-fabric"
+version = "A8R3Be5A"
+
+[[mods]]
+type = "modrinth"
+id = "trinkets"
+version = "AHxQGtuC"
+
+[[mods]]
+type = "modrinth"
+id = "botarium"
+version = "5a8eybLl"
+
+[[mods]]
+type = "modrinth"
+id = "resourceful-lib"
+version = "eHrhVCDK"
+
+[[mods]]
+type = "modrinth"
+id = "jade"
+version = "yksHdZ4j"
+
+[[mods]]
+type = "modrinth"
+id = "jade-addons-fabric"
+version = "8NamGveF"
+
+[[mods]]
+type = "modrinth"
+id = "terralith"
+version = "FgvUosFH"
+
+[[mods]]
+type = "modrinth"
+id = "tectonic"
+version = "PFg0zBtc"
+
+[[mods]]
+type = "modrinth"
+id = "artifacts"
+version = "Uetdhalv"
+
+[[mods]]
+type = "modrinth"
+id = "azurelib"
+version = "9e6pFQts"
+
+[[mods]]
+type = "modrinth"
+id = "badpackets"
+version = "JjLWLyDz"
+
+[[mods]]
+type = "modrinth"
+id = "blahaj"
+version = "uLiIwYwS"
+
+[[mods]]
+type = "modrinth"
+id = "no-chat-reports"
+version = "HeZZR2kF"
+
+[[mods]]
+type = "modrinth"
+id = "pehkui"
+version = "czRgm3k6"
+
+[[mods]]
+type = "modrinth"
+id = "cc-tweaked"
+version = "ekffpGYP"
+
+
+[[mods]]
+type = "modrinth"
+id = "emi"
+version = "ab3hfPOi"
+
+[[mods]]
+type = "modrinth"
+id = "emitrades"
+version = "kWMqVWTm"
+
+[[mods]]
+type = "modrinth"
+id = "emi-loot"
+version = "lwhMjJHL"
+
+[[mods]]
+type = "modrinth"
+id = "emiffect"
+version = "BslzSzGd"
+
+[[mods]]
+type = "modrinth"
+id = "extra-mod-integrations"
+version = "kTtFhI1L"
+
+[[mods]]
+type = "modrinth"
+id = "fabric-seasons"
+version = "uMEzKato"
+
+[[mods]]
+type = "modrinth"
+id = "fabric-seasons-terralith-compat"
+version = "MJ2OF7eg"
+
+[[mods]]
+type = "modrinth"
+id = "architectury-api"
+version = "WbL7MStR"
