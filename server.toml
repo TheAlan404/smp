@@ -215,3 +215,23 @@ version = "YsNh3WnN"
 type = "modrinth"
 id = "carry-on"
 version = "Mkla4B3q"
+
+[[mods]]
+type = "modrinth"
+id = "tree-harvester"
+version = "3xpkqLbJ"
+
+[[mods]]
+type = "modrinth"
+id = "collective"
+version = "ENGS2tc8"
+
+[[mods]]
+type = "modrinth"
+id = "cccbridge"
+version = "57pJUQQM"
+
+[[mods]]
+type = "modrinth"
+id = "polymer"
+version = "3ii2xU3x"
