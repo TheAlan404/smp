@@ -1,14 +1,14 @@
 name = "smp"
-version = "9df9afc9aacd71cec8f29f1fa479726125f35c97"
+version = "bc2b995902bc73e6aefee1a2066670cec731bec2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
-hash = "974d0f834c32edb734d542ef0bbd84ebe5440065e6f260317b12dc6b370e20b5"
+hash = "720cf50e101e64ec3b2c40c124a8552c7090933c773f3a6b1dd6bda555ed63fe"
 hash-format = "sha256"
 metafile = false
 preserve = false
 
 [versions]
-minecraft = "1.20.1"
 fabric = "latest"
+minecraft = "1.20.1"
