@@ -1,0 +1,17 @@
+name = "fasterrandom-4.0.1"
+filename = "fasterrandom-4.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RfFxanNh/versions/lzNTxMxT/fasterrandom-4.0.1.jar"
+hash = "b07b5afa9c845549755f8760b63f5a74e9069d536605a8f8cd3907edd18676a6da09132920f3b23380bab01f5e8866197921d81c4fdccabadcb048adef4368d3"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "faster-random"
+version = "lzNTxMxT"
