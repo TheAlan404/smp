@@ -303,11 +303,6 @@ version = "yDqYTUaf"
 
 [[mods]]
 type = "modrinth"
-id = "simply-swords"
-version = "r5QBtUE9"
-
-[[mods]]
-type = "modrinth"
 id = "language-reload"
 version = "EbPl4WIQ"
 
@@ -415,3 +410,28 @@ version = "qLnQnqXS"
 type = "modrinth"
 id = "natures-compass"
 version = "NovIXDxY"
+
+[[mods]]
+type = "modrinth"
+id = "silk"
+version = "3H0nUJhq"
+
+[[mods]]
+type = "modrinth"
+id = "cloth-config"
+version = "y0kQixP8"
+
+[[mods]]
+type = "modrinth"
+id = "geckolib"
+version = "qsvFEDEz"
+
+[[mods]]
+type = "modrinth"
+id = "weaponworks"
+version = "hdiUlwW2"
+
+[[mods]]
+type = "modrinth"
+id = "itemfig"
+version = "fCuHADPV"
