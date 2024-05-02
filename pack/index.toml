@@ -337,12 +337,6 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/simplyswords-fabric-1.55.0-1.20.1.pw.toml"
-hash = "c3e92efc1394103d1dafcd76a4835061f261fd19bccb58438a6c1acbc5228eb6"
-metafile = true
-preserve = false
-
-[[files]]
 file = "mods/language-reload-1.5.10+1.20.1.pw.toml"
 hash = "6b4d2b30ab00ec34ee5f40266fcbc80863ee7c7220e6f8ba3cb2d552bb6f02b6"
 metafile = true
@@ -471,6 +465,36 @@ preserve = false
 [[files]]
 file = "mods/NaturesCompass-1.20.1-2.2.3-fabric.pw.toml"
 hash = "8ce6e43b95a8c342e4a204bb3ae96f17ea632a1921ad24b273ed7048d640ff51"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/silk-all-1.10.1.pw.toml"
+hash = "208ef35a75736e40118380f1032404d0c57727af7f4e4e377072119b7de82364"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/cloth-config-11.0.99-fabric.pw.toml"
+hash = "d6e95ac8405727423d1901060e451f3080c574b4b16ddf509c2161ab92f730c8"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/geckolib-fabric-1.20.1-4.4.4.pw.toml"
+hash = "688f0c820f5638b640c799e6d6e00fab5eb7a06ff1026a7a33cdf07b4bdf6800"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/weaponworks-1.4.1-1.20.1-fabric.pw.toml"
+hash = "b9b38a99bf92c966bdc9488d610f1bffba0b69f764a3225992e16d07122e3c48"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/itemfig-1.20.1-0.2.7-fabric.pw.toml"
+hash = "e7b3dac58849183bd6971d3c364e3b7bedebb8ef6204fcda1beb02c3b221b776"
 metafile = true
 preserve = false
 
