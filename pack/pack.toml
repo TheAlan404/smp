@@ -1,0 +1,14 @@
+name = "smp"
+version = "e1183055a130246bbd094dcb53c31a203b8bf7b7"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash = "2cfc2d4442aaa5cc76722ca60d55a176e1e2aa630434f035668d3ddf6a5c0819"
+hash-format = "sha256"
+metafile = false
+preserve = false
+
+[versions]
+minecraft = "1.20.1"
+fabric = "latest"
