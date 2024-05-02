@@ -235,3 +235,103 @@ version = "57pJUQQM"
 type = "modrinth"
 id = "polymer"
 version = "3ii2xU3x"
+
+[[mods]]
+type = "modrinth"
+id = "sodium"
+version = "mhZtY2lR"
+
+[[mods]]
+type = "modrinth"
+id = "iris"
+version = "KHQ2Hnpt"
+
+[[mods]]
+type = "modrinth"
+id = "indium"
+version = "Aouse6P7"
+
+[[mods]]
+type = "modrinth"
+id = "sodium-extra"
+version = "I7ggF6B5"
+
+[[mods]]
+type = "modrinth"
+id = "reeses-sodium-options"
+version = "Rc9pkPug"
+
+[[mods]]
+type = "modrinth"
+id = "modmenu"
+version = "lEkperf6"
+
+[[mods]]
+type = "modrinth"
+id = "memoryleakfix"
+version = "5xvCCRjJ"
+
+[[mods]]
+type = "modrinth"
+id = "simple-voice-chat"
+version = "es78rsMC"
+
+[[mods]]
+type = "modrinth"
+id = "no-chat-reports"
+version = "HeZZR2kF"
+
+[[mods]]
+type = "modrinth"
+id = "zoomify"
+version = "gZr7EykF"
+
+[[mods]]
+type = "modrinth"
+id = "debugify"
+version = "6XDJoCks"
+
+[[mods]]
+type = "modrinth"
+id = "better-combat"
+version = "jhqZUDtT"
+
+[[mods]]
+type = "modrinth"
+id = "playeranimator"
+version = "yDqYTUaf"
+
+[[mods]]
+type = "modrinth"
+id = "simply-swords"
+version = "r5QBtUE9"
+
+[[mods]]
+type = "modrinth"
+id = "language-reload"
+version = "EbPl4WIQ"
+
+[[mods]]
+type = "modrinth"
+id = "farmers-delight-refabricated"
+version = "5dZdVy3m"
+
+[[mods]]
+type = "modrinth"
+id = "xaeros-minimap"
+version = "C2jbx7JG"
+
+[[mods]]
+type = "modrinth"
+id = "xaeros-world-map"
+version = "GOh0fFoJ"
+
+[[mods]]
+type = "modrinth"
+id = "voice-chat-interaction"
+version = "LX0uNyw4"
+
+[[mods]]
+type = "modrinth"
+id = "styled-nicknames"
+version = "9k8RQJkW"

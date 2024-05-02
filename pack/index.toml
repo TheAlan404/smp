@@ -259,13 +259,133 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "whitelist.json"
-hash = "2681949f811fcb8d32eda28a1c8be4e4694435d4ace1ac0c2262f53d72a135f2"
-metafile = false
+file = "mods/sodium-fabric-0.5.8+mc1.20.1.pw.toml"
+hash = "bc3318aaa5a0821907b13426317b28da88494bb900915d7d211534cf5f713e2e"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/iris-1.7.0+mc1.20.1.pw.toml"
+hash = "d629c063fb730623705349286ee440bc1a62f67ecd32e15ed9e17e322f07f7dc"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/indium-1.0.30+mc1.20.4.pw.toml"
+hash = "1cf56c81d3f233b51fe47271211fe820fee82c4b0f78c404f9d0314ce26b1d72"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/sodium-extra-0.5.4+mc1.20.1-build.115.pw.toml"
+hash = "7b4658536cc9137fde23f31922a2aaf95b39a82f21864e3db5d535f3350acd72"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/reeses_sodium_options-1.7.2+mc1.20.1-build.101.pw.toml"
+hash = "aad57549548f38cab52f03a4240ff71cc0f8a2759a121cd94d5fea92ce77b29e"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/modmenu-7.2.2.pw.toml"
+hash = "f449f825aa8782875e9c121fc396a2d1f0c28882929ec6c627aedb705d24ed5e"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/memoryleakfix-fabric-1.17+-1.1.5.pw.toml"
+hash = "b2cd433e784793515e971a4d1523370b14d5ce42dfd12c9d9a6a63f49b5c2b72"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/voicechat-fabric-1.20.1-2.5.13.pw.toml"
+hash = "72c1a53b8178aca5483653c88f708cb2dc335439a38f0a861d4bba2a47816192"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/NoChatReports-FABRIC-1.20.1-v2.2.2.pw.toml"
+hash = "3ea6bbe413c328c41feddc5d3cd9b853b58f1212be25159adc6186f42db78823"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/Zoomify-2.11.2.pw.toml"
+hash = "ecc5c4fc62d9c1badadf78203b77823c1e13178b90c436041c9db3f242daf3f2"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/Debugify-1.20.1+2.0.pw.toml"
+hash = "bf08e4cd8c216bb4df96985cf236c4220605315dd5bb1d9677c0f7ab489dded8"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/bettercombat-fabric-1.8.5+1.20.1.pw.toml"
+hash = "3db94c9474afb8f64bdbd6178bbb1c336d8e9cdb5f322c5447ae4fae79ef081c"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/player-animation-lib-fabric-1.0.2-rc1+1.20.pw.toml"
+hash = "5dfdc50be2a63214d9b77664322f3a8e579ff857e3c0531f061a2a41b51e62d8"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/simplyswords-fabric-1.55.0-1.20.1.pw.toml"
+hash = "c3e92efc1394103d1dafcd76a4835061f261fd19bccb58438a6c1acbc5228eb6"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/language-reload-1.5.10+1.20.1.pw.toml"
+hash = "6b4d2b30ab00ec34ee5f40266fcbc80863ee7c7220e6f8ba3cb2d552bb6f02b6"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/FarmersDelight-1.20.1-2.1.1+refabricated.pw.toml"
+hash = "0c99445f777d95b332368b774fff79a7be4089f4a3be5912ee5308ea0f7de0ef"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/Xaeros_Minimap_24.1.1_Fabric_1.20.pw.toml"
+hash = "9f027daace67644a5c61530ffe2fb72b4e179b5b60458dfd4c91bf2acbe5487b"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/XaerosWorldMap_1.38.4_Fabric_1.20.pw.toml"
+hash = "df517dd718dcf316ad246ca9a346a1f071c027f57d90fd1a054a7d2e85815c4c"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/vcinteraction-fabric-1.20.1-1.0.6.pw.toml"
+hash = "84c59a109498f214591a453a3cbf65506b6dddd9f2fcc6866e38b3141a7ce17a"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/styled-nicknames-1.2.1+1.20.pw.toml"
+hash = "8b9380d9fe90526ff6df9a96995cbe35436bbded5e53f97b5640e0c2f81152a5"
+metafile = true
 preserve = false
 
 [[files]]
 file = "ops.json"
 hash = "eed673ffc20cd1fa92bdf46e864ea3ad6e98c0443128ce8913789e7c664571c2"
+metafile = false
+preserve = false
+
+[[files]]
+file = "whitelist.json"
+hash = "2681949f811fcb8d32eda28a1c8be4e4694435d4ace1ac0c2262f53d72a135f2"
 metafile = false
 preserve = false
