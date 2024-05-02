@@ -257,3 +257,15 @@ file = "mods/polymer-bundled-0.5.19+1.20.1.pw.toml"
 hash = "4f9d0e88d9bbabdd5b218a1ab2dfd39fb40d2cc2a02ab8819d162694a49d8508"
 metafile = true
 preserve = false
+
+[[files]]
+file = "whitelist.json"
+hash = "2681949f811fcb8d32eda28a1c8be4e4694435d4ace1ac0c2262f53d72a135f2"
+metafile = false
+preserve = false
+
+[[files]]
+file = "ops.json"
+hash = "eed673ffc20cd1fa92bdf46e864ea3ad6e98c0443128ce8913789e7c664571c2"
+metafile = false
+preserve = false
