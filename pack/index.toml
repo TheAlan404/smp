@@ -583,6 +583,30 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/spark-1.10.53-fabric.pw.toml"
+hash = "f3fe8c0ee46c08f04a1e0ee7949efeb140099dc35605047aa6d4c18d13e32f59"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/fabric-seasons-delight-1.3.9-compat-1.0.pw.toml"
+hash = "ec33cfa83de0aa6dd7cf3ca4ef63289c4b677176542c9bd66b1f55bcc1336f53"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/fabric-seasons-extras-1.2-BETA+1.20.pw.toml"
+hash = "a2eb7707a26576faf61ecd01a42184ae43cdf42aec989fe359cda03501070fbe"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/leashmod-1.0.6.pw.toml"
+hash = "26ea71543a4eb66eb67d07322416e906da3811f63e4b8491e76444aa3e465a30"
+metafile = true
+preserve = false
+
+[[files]]
 file = "whitelist.json"
 hash = "2681949f811fcb8d32eda28a1c8be4e4694435d4ace1ac0c2262f53d72a135f2"
 metafile = false
