@@ -440,3 +440,68 @@ version = "fCuHADPV"
 type = "modrinth"
 id = "yacl"
 version = "TD5Fv92S"
+
+[[mods]]
+type = "modrinth"
+id = "figura"
+version = "DhHrk371"
+
+[[mods]]
+type = "modrinth"
+id = "appleskin"
+version = "xcauwnEB"
+
+[[mods]]
+type = "modrinth"
+id = "dcintegration"
+version = "WLOprDDs"
+
+[[mods]]
+type = "modrinth"
+id = "travelersbackpack"
+version = "kf3NfFx1"
+
+[[mods]]
+type = "modrinth"
+id = "lambdynamiclights"
+version = "mYl4RvKg"
+
+[[mods]]
+type = "modrinth"
+id = "do-a-barrel-roll"
+version = "RlVXmJeD"
+
+[[mods]]
+type = "modrinth"
+id = "view-distance-fix"
+version = "EkpvfTep"
+
+[[mods]]
+type = "modrinth"
+id = "cicada"
+version = "hhopxVRV"
+
+[[mods]]
+type = "modrinth"
+id = "packet-fixer"
+version = "D6g6pRom"
+
+[[mods]]
+type = "modrinth"
+id = "chatpatches"
+version = "C3BmhD5L"
+
+[[mods]]
+type = "modrinth"
+id = "entityculling"
+version = "BDwHAdWc"
+
+[[mods]]
+type = "modrinth"
+id = "inventory-management"
+version = "iYujfjuN"
+
+[[mods]]
+type = "modrinth"
+id = "midnightcontrols"
+version = "xHOdr9un"
