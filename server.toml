@@ -505,3 +505,23 @@ version = "iYujfjuN"
 type = "modrinth"
 id = "midnightcontrols"
 version = "xHOdr9un"
+
+[[mods]]
+type = "modrinth"
+id = "spark"
+version = "XGW2fviP"
+
+[[mods]]
+type = "modrinth"
+id = "fabric-seasons-delight-compat"
+version = "KIzyS8hk"
+
+[[mods]]
+type = "modrinth"
+id = "fabric-seasons-extras"
+version = "H6OLpHJp"
+
+[[mods]]
+type = "modrinth"
+id = "leashable-players"
+version = "d3hLk9n5"
