@@ -1,0 +1,17 @@
+name = "cicada-lib-0.7.1+1.20.1"
+filename = "cicada-lib-0.7.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IwCkru1D/versions/hhopxVRV/cicada-lib-0.7.1%2B1.20.1.jar"
+hash = "3b9d37cfb297ea137788590d7908c2c937043bae68c4bd5d0b8321ee9f0831a1f1f46a7d49ce524d6be24a22d8d244cad96997a008c7e47b7a5816f76988bb67"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "cicada"
+version = "hhopxVRV"

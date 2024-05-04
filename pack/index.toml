@@ -505,8 +505,92 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/figura-0.1.4+1.20.1-fabric-mc.pw.toml"
+hash = "ef81cfd8e34185d29958465e1f75777a6fe0810ef53e7f46283be550845a10bf"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/appleskin-fabric-mc1.20.1-2.5.1.pw.toml"
+hash = "ce65ce49d95607bc6ce303fe630808597e07b19f0942074f1aa826dbf303c216"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/dcintegration-fabric-3.0.7-1.20.1.pw.toml"
+hash = "00a1a1483678e565c29ae1633e0637755b2ee07b5ef156b564d93a0ac5de86a8"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/travelersbackpack-fabric-1.20.1-9.1.12.pw.toml"
+hash = "5204dc92506122533f081c4bd9227a6bfd87ef9e3b240bc76dd9589a49b29dd8"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/lambdynamiclights-2.3.2+1.20.1.pw.toml"
+hash = "6d9e86e7f4dc4831cdc47bc9206538995dd5ee2949f7486efbc94198bf4853a8"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/do_a_barrel_roll-fabric-3.5.5+1.20.1.pw.toml"
+hash = "91374cd7f691ff286eb3fe007df3d90eaac15eb085942d3207799932c254cacf"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/viewdistancefix-fabric-1.20.1-1.0.2.pw.toml"
+hash = "a423c5b152cc32d023d5ed7f1d7d6837c5082632d3e4772b1d4c4fbdabf9a72b"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/cicada-lib-0.7.1+1.20.1.pw.toml"
+hash = "485a513ae579bdb9e5648a1565f6d58aa294beb092b6530c9d1ba8071bf1aee4"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/packetfixer-fabric-1.3.2-1.19-to-1.20.1.pw.toml"
+hash = "644337ba9c7f0c0519b03e7473d44a3916fd454f69b01e70b7c27ae74af6c5ab"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/chatpatches-201.5.5.pw.toml"
+hash = "96f84a3176c83d71403c32c6fefc1d7ec4cf3ecf147adc091bbc8300ae849dba"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/entityculling-fabric-1.6.2-mc1.20.1.pw.toml"
+hash = "2332b3a85e68678b18c8094df95bf0ccb49a2af479a1ecf50497ff096352f518"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/inventorymanagement-1.3.1+1.20.pw.toml"
+hash = "d6c51eac2115af170873bfef4b96772862aa8852798ef3298ae65d5af75bcfde"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/midnightcontrols-1.9.4+1.20.pw.toml"
+hash = "c55b244a59b03b5f1ec2921157c95fc78acc4b352a6ca487d410698a5999be7b"
+metafile = true
+preserve = false
+
+[[files]]
 file = "whitelist.json"
 hash = "2681949f811fcb8d32eda28a1c8be4e4694435d4ace1ac0c2262f53d72a135f2"
+metafile = false
+preserve = false
+
+[[files]]
+file = "server.properties"
+hash = "873f818ad1ac6b6472d107ac6aaf996652171eab7f6dfa082d7d30a12c478377"
 metafile = false
 preserve = false
 
