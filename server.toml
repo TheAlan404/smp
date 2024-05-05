@@ -566,7 +566,3 @@ type = "modrinth"
 id = "3dskinlayers"
 version = "GeQIXZBw"
 
-[[mods]]
-type = "modrinth"
-id = "create-steam-n-rails"
-version = "tTebgWv2"
