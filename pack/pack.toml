@@ -1,5 +1,5 @@
 name = "smp"
-version = "116b69e16a396817f55d2b4ef5b67d84a2bdf4a9"
+version = "451f925ac773ba16cef5ea2c3e65f93b73dbf133"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,5 +10,5 @@ metafile = false
 preserve = false
 
 [versions]
-fabric = "latest"
 minecraft = "1.20.1"
+fabric = "latest"
