@@ -208,11 +208,6 @@ version = "yQzTujqg"
 
 [[mods]]
 type = "modrinth"
-id = "origin-furs"
-version = "YsNh3WnN"
-
-[[mods]]
-type = "modrinth"
 id = "carry-on"
 version = "Mkla4B3q"
 
@@ -525,3 +520,53 @@ version = "H6OLpHJp"
 type = "modrinth"
 id = "leashable-players"
 version = "d3hLk9n5"
+
+[[mods]]
+type = "modrinth"
+id = "slice-and-dice"
+version = "fIWeey09"
+
+[[mods]]
+type = "modrinth"
+id = "jamlib"
+version = "vVYtBiuW"
+
+[[mods]]
+type = "modrinth"
+id = "rightclickharvest"
+version = "4UWabEWo"
+
+[[mods]]
+type = "modrinth"
+id = "attributefix"
+version = "B5XgR60E"
+
+[[mods]]
+type = "modrinth"
+id = "gliders"
+version = "9Qu0MGnH"
+
+[[mods]]
+type = "modrinth"
+id = "adaptive-tooltips"
+version = "1.3.0"
+
+[[mods]]
+type = "modrinth"
+id = "do-api"
+version = "9hdQ7DkO"
+
+[[mods]]
+type = "modrinth"
+id = "bl4cks-sit"
+version = "gBDMhF2c"
+
+[[mods]]
+type = "modrinth"
+id = "3dskinlayers"
+version = "GeQIXZBw"
+
+[[mods]]
+type = "modrinth"
+id = "create-steam-n-rails"
+version = "tTebgWv2"
