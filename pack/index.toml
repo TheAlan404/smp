@@ -223,12 +223,6 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/originfur-1.0.10.pw.toml"
-hash = "7f350fdae78493eca7b98a598623187eb7990cffb788d2c7118a31eea0c60d2b"
-metafile = true
-preserve = false
-
-[[files]]
 file = "mods/carryon-fabric-1.20.1-2.1.2.7.pw.toml"
 hash = "815905b4a01cde9f2ed6c5ee585d03469ce579eb32086e66bb1befe555830a1e"
 metafile = true
@@ -607,8 +601,68 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/sliceanddice-fabric-3.2.1.pw.toml"
+hash = "5c935d2c82a34b6c444d3fd12e2a432117cce9620287a1694985e2ac10d3fddc"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/jamlib-0.6.1+1.20.x.pw.toml"
+hash = "91546524fbbd5f6fe36ad00e996b4e02fe0d41b82491ffef2b91cdde3b1bd7fe"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/right-click-harvest-3.2.3+1.19.x-1.20.1-fabric.pw.toml"
+hash = "69fb11d131ba8c22a8a21d5851f492b6dcb105029a7fbd38a1e10cbbb934add4"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/AttributeFix-Fabric-1.20.1-21.0.4.pw.toml"
+hash = "7890c44674403b4d2be43c0185a7ef9d5c304cce7af9f999e028132fe28e202f"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/vc_gliders-fabric-1.1.5.pw.toml"
+hash = "e2a779e788e20a0af05fca443d8ecb139158885a73b4ba1d0f101a1fc31cd0f0"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/AdaptiveTooltips-1.3.0-fabric-1.20.2.pw.toml"
+hash = "827e736d7bb5648e60c0dba72d469eac1e2343da7e35f4073e2646c41c74c8ab"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/letsdo-API-fabric-1.2.10-fabric.pw.toml"
+hash = "4cc2922cc73530573300e530135268502552ae9199e0c159fd05c7cc46693e06"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/sit-1.20-24.pw.toml"
+hash = "b08172af8ebbc0d288fa135c1df274398e4518414c335085ee699ece052df4e6"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/skinlayers3d-fabric-1.6.4-mc1.20.1.pw.toml"
+hash = "da462c4694bf36a4349ca3bbd814d457f690b9c3717b19a87510d1495861e3b6"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/Steam_Rails-1.6.3+fabric-mc1.20.1.pw.toml"
+hash = "2acc1a825c768f042f434f75eaddd0d8eae32745518ad1722331f095570a438d"
+metafile = true
+preserve = false
+
+[[files]]
 file = "whitelist.json"
-hash = "2681949f811fcb8d32eda28a1c8be4e4694435d4ace1ac0c2262f53d72a135f2"
+hash = "028c6b9c9a5cc8d6ac684f1d964ca557e0c15414326e7dc6bc3eca81fd4a1130"
 metafile = false
 preserve = false
 
@@ -620,6 +674,6 @@ preserve = false
 
 [[files]]
 file = "ops.json"
-hash = "eed673ffc20cd1fa92bdf46e864ea3ad6e98c0443128ce8913789e7c664571c2"
+hash = "4c75d62bb4725d2b98b7a40026db72aa605ffecdd09c1c900cd9a136b991ad25"
 metafile = false
 preserve = false
