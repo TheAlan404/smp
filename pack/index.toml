@@ -655,12 +655,6 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/Steam_Rails-1.6.3+fabric-mc1.20.1.pw.toml"
-hash = "2acc1a825c768f042f434f75eaddd0d8eae32745518ad1722331f095570a438d"
-metafile = true
-preserve = false
-
-[[files]]
 file = "whitelist.json"
 hash = "028c6b9c9a5cc8d6ac684f1d964ca557e0c15414326e7dc6bc3eca81fd4a1130"
 metafile = false
