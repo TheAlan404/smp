@@ -1,0 +1,17 @@
+name = "mcdw-9.0.2"
+filename = "mcdw-9.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FZmGDE43/versions/O8JgP5eC/mcdw-9.0.2.jar"
+hash = "1275b848ac03d8a9619f2435a97953a1b71864fe0ead7eb2fbaf35d9dd1d2957e2cdb0325b8a142bbc9a879bf54a16dcea97f11c144b14fb44a9b1de05c6cf5a"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "mcdw"
+version = "9.0.2"

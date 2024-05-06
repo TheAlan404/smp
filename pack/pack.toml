@@ -1,10 +1,10 @@
 name = "smp"
-version = "451f925ac773ba16cef5ea2c3e65f93b73dbf133"
+version = "04ae5ed3c6d4621aab1b4937bc3c314ba3f9f49d"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
-hash = "c91adf21f8dd57552f5757c88c96a30888836f17a9521bd68c7c2f852c601ba7"
+hash = "e5c2b0906110e32bfabc225b380ac7a143f0a4ffb8d4264a70175ea61bfabd8d"
 hash-format = "sha256"
 metafile = false
 preserve = false

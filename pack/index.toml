@@ -637,12 +637,6 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/letsdo-API-fabric-1.2.10-fabric.pw.toml"
-hash = "4cc2922cc73530573300e530135268502552ae9199e0c159fd05c7cc46693e06"
-metafile = true
-preserve = false
-
-[[files]]
 file = "mods/sit-1.20-24.pw.toml"
 hash = "b08172af8ebbc0d288fa135c1df274398e4518414c335085ee699ece052df4e6"
 metafile = true
@@ -651,6 +645,48 @@ preserve = false
 [[files]]
 file = "mods/skinlayers3d-fabric-1.6.4-mc1.20.1.pw.toml"
 hash = "da462c4694bf36a4349ca3bbd814d457f690b9c3717b19a87510d1495861e3b6"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/soulslike-weaponry-1.1.3-1.20-fabric.pw.toml"
+hash = "f53e9bd6eba99937b09f8aedc29d24d9a8a33431ba4e7369c63e6c2047a0c590"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/right-click-harvest-3.2.3+1.19.x-1.20.1-fabric.pw.toml"
+hash = "69fb11d131ba8c22a8a21d5851f492b6dcb105029a7fbd38a1e10cbbb934add4"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/brewery-0.4.3+1.20.1.pw.toml"
+hash = "60467f2cf4061a6768d013cbe61aae2b16f0c4a6c270eeb3bc8363fca01a7426"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/mcdw-9.0.2.pw.toml"
+hash = "21af05b38cb1347aebfd0c1a86e355e719a4f07975a913147b6c31ca811a451e"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/projectile_damage-fabric-3.2.3+1.20.1.pw.toml"
+hash = "02ab2d5c5944bd2a5e757e54acd4efc00cdbf9d3427165ba4d41e5982f74f184"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/mcde-1.5.7-1.20.pw.toml"
+hash = "2806b779e35e21d5f152493ddb7e018c2be7ea3f3e4228d2ec0099f707326a9f"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/mcda-5.0.2.pw.toml"
+hash = "abeb84ccb675a2d91f280760b35cc347b7686daa3c176737fd880464b7628921"
 metafile = true
 preserve = false
 
