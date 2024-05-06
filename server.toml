@@ -1,7 +1,6 @@
 name = "smp"
 mc_version = "1.20.1"
 
-
 [jar]
 type = "fabric"
 loader = "latest"
@@ -567,3 +566,37 @@ type = "modrinth"
 id = "3dskinlayers"
 version = "GeQIXZBw"
 
+[[mods]]
+type = "modrinth"
+id = "mariums-soulslike-weaponry"
+version = "EeDvXKwi"
+
+[[mods]]
+type = "modrinth"
+id = "rightclickharvest"
+version = "4UWabEWo"
+
+[[mods]]
+type = "modrinth"
+id = "brewery"
+version = "0.4.3+1.20.1"
+
+[[mods]]
+type = "modrinth"
+id = "mcdw"
+version = "9.0.2"
+
+[[mods]]
+type = "modrinth"
+id = "projectile-damage-attribute"
+version = "TPkj1ZDs"
+
+[[mods]]
+type = "modrinth"
+id = "mc-dungeons-enchanting"
+version = "rF87WOC9"
+
+[[mods]]
+type = "modrinth"
+id = "mcda"
+version = "kOZVEfRn"
