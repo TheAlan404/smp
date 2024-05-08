@@ -15,7 +15,7 @@ nogui = true
 
 [markdown]
 files = ["README.md"]
-auto_update = true
+auto_update = false
 
 [options]
 success_line = ""
@@ -576,8 +576,37 @@ type = "modrinth"
 id = "brewery"
 version = "0.4.3+1.20.1"
 
+[[mods]]
+type = "modrinth"
+id = "puzzles-lib"
+version = "UevkyHdQ"
+
+[[mods]]
+type = "modrinth"
+id = "easy-anvils"
+version = "pA1enJAS"
+
+[[mods]]
+type = "modrinth"
+id = "grind-enchantments"
+version = "Tw5AjLl7"
+
+[[mods]]
+type = "modrinth"
+id = "trank-o-mat"
+version = "YG7H8psG"
 
 [[mods]]
 type = "modrinth"
 id = "puzzles-lib"
 version = "UevkyHdQ"
+
+[[mods]]
+type = "modrinth"
+id = "immersive-aircraft"
+version = "WNDpdgfW"
+
+[[mods]]
+type = "modrinth"
+id = "man-of-many-planes"
+version = "CyyfPd93"
