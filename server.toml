@@ -603,15 +603,10 @@ version = "UevkyHdQ"
 
 [[mods]]
 type = "modrinth"
-id = "immersive-aircraft"
-version = "WNDpdgfW"
-
-[[mods]]
-type = "modrinth"
-id = "man-of-many-planes"
-version = "CyyfPd93"
-
-[[mods]]
-type = "modrinth"
 id = "ledger"
 version = "pOxgWfwI"
+
+[[mods]]
+type = "modrinth"
+id = "ironchests"
+version = "gioHN8Aw"
