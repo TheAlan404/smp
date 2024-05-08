@@ -1,0 +1,17 @@
+name = "trank_o_mat-fabric-1.20.1-1.2.0"
+filename = "trank_o_mat-fabric-1.20.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EGSpdLH3/versions/YG7H8psG/trank_o_mat-fabric-1.20.1-1.2.0.jar"
+hash = "a5a8993ab745fbb50e63888b0bcabe268b47147d1269eca6edd7f9fb0aabe46bb24504e66348689138a51ee8cfd0d299526c455e76c74e7dab42a2698d490e4e"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "trank-o-mat"
+version = "YG7H8psG"
