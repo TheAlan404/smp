@@ -1,6 +1,6 @@
 name = "smp"
 mc_version = "1.20.1"
- 
+
 [jar]
 type = "fabric"
 loader = "latest"
@@ -610,3 +610,8 @@ version = "WNDpdgfW"
 type = "modrinth"
 id = "man-of-many-planes"
 version = "CyyfPd93"
+
+[[mods]]
+type = "modrinth"
+id = "ledger"
+version = "pOxgWfwI"
