@@ -551,7 +551,6 @@ type = "modrinth"
 id = "adaptive-tooltips"
 version = "1.3.0"
 
-
 [[mods]]
 type = "modrinth"
 id = "bl4cks-sit"
@@ -577,22 +576,8 @@ type = "modrinth"
 id = "brewery"
 version = "0.4.3+1.20.1"
 
-[[mods]]
-type = "modrinth"
-id = "mcdw"
-version = "9.0.2"
 
 [[mods]]
 type = "modrinth"
-id = "projectile-damage-attribute"
-version = "TPkj1ZDs"
-
-[[mods]]
-type = "modrinth"
-id = "mc-dungeons-enchanting"
-version = "rF87WOC9"
-
-[[mods]]
-type = "modrinth"
-id = "mcda"
-version = "kOZVEfRn"
+id = "puzzles-lib"
+version = "UevkyHdQ"
