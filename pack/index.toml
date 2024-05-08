@@ -697,14 +697,14 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/immersive_aircraft-0.7.5+1.20.1-fabric.pw.toml"
-hash = "c9bf6da413295e9f51ea53fff49b3e922eb8c93583bebe85acf5d1f5b46c05a2"
+file = "mods/ledger-1.2.8.pw.toml"
+hash = "a869dee06f790b5f77d698bdef1f7ef996447794187660a5ae70e2e7f714d428"
 metafile = true
 preserve = false
 
 [[files]]
-file = "mods/man_of_many_planes-0.0.3+1.20.1-fabric.pw.toml"
-hash = "d3f02e3b3b1d0e26d3007836d77350f5a4cf4e455458a0707b9ea054b30b8921"
+file = "mods/ironchests-5.0.2-fabric.pw.toml"
+hash = "308543d71788e8964342b8c458800b66a6e7feb90119585c5ad74835f1797ffe"
 metafile = true
 preserve = false
 
