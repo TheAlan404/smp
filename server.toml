@@ -402,7 +402,6 @@ type = "modrinth"
 id = "nullscape"
 version = "zO4Fl1np"
 
-
 [[mods]]
 type = "modrinth"
 id = "ibo"
@@ -657,3 +656,43 @@ version = "KIzyS8hk"
 type = "modrinth"
 id = "carry-on"
 version = "Mkla4B3q"
+
+[[mods]]
+type = "modrinth"
+id = "figura"
+version = "DhHrk371"
+
+[[mods]]
+type = "modrinth"
+id = "tree-harvester"
+version = "3xpkqLbJ"
+
+[[mods]]
+type = "modrinth"
+id = "mariums-soulslike-weaponry"
+version = "EeDvXKwi"
+
+[[mods]]
+type = "modrinth"
+id = "origins-umbrellas"
+version = "1.5.6"
+
+[[mods]]
+type = "modrinth"
+id = "attributefix"
+version = "21.0.4"
+
+[[mods]]
+type = "modrinth"
+id = "natures-compass"
+version = "1.20.1-2.2.3-fabric"
+
+[[mods]]
+type = "modrinth"
+id = "geckolib"
+version = "qsvFEDEz"
+
+[[mods]]
+type = "modrinth"
+id = "storage-delight"
+version = "1.1.1-1.20.1-fabric"
