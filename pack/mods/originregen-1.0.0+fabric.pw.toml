@@ -1,0 +1,17 @@
+name = "originregen-1.0.0+fabric"
+filename = "originregen-1.0.0+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ysjMirEi/versions/VDAamf7u/originregen-1.0.0%2Bfabric.jar"
+hash = "0eb8d5786549fafe86382721172dc4edfd6f487c22d984c486de5f71189a020c3a20963394659cbfe295b50dd32021ab72d88ba7a997a2bd16770dc1a4478fb6"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "origin-regen"
+version = "VDAamf7u"
