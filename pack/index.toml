@@ -811,6 +811,12 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/collective-1.20.1-7.57.pw.toml"
+hash = "2fba71e7f835769a664888ce3fc4126401d502cb978670185eac46c79380cc71"
+metafile = true
+preserve = false
+
+[[files]]
 file = "whitelist.json"
 hash = "028c6b9c9a5cc8d6ac684f1d964ca557e0c15414326e7dc6bc3eca81fd4a1130"
 metafile = false
