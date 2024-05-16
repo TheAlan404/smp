@@ -763,18 +763,6 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/originregen-1.0.0+fabric.pw.toml"
-hash = "3b2751b9817bb5adf31852a06810577319276e10595e08616ed04b9b67af65bc"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/regeneration-42.0.0.pw.toml"
-hash = "76fd472a728a5ef4dab895aa193ff3ae3ecb32064a016e2fa4d027726907601c"
-metafile = true
-preserve = false
-
-[[files]]
 file = "whitelist.json"
 hash = "028c6b9c9a5cc8d6ac684f1d964ca557e0c15414326e7dc6bc3eca81fd4a1130"
 metafile = false
