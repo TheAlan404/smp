@@ -1,0 +1,17 @@
+name = "language-reload-1.5.11+1.20.1"
+filename = "language-reload-1.5.11+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uLbm7CG6/versions/DpodeUOd/language-reload-1.5.11%2B1.20.1.jar"
+hash = "318b69674ccfa4b428c6a4d058f616972ee357b709ca052ab51a697c6e4e8e9c8791333cc7cdf952ebd18f804b4b6ad7e44a003f1e9bffe85963a6d05540c28e"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "language-reload"
+version = "DpodeUOd"

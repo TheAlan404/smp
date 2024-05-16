@@ -1,0 +1,17 @@
+name = "tectonic-datapack-v2.2.2.zip"
+filename = "tectonic-datapack-v2.2.2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lWDHr9jE/versions/stwi8gQ3/tectonic-datapack-v2.2.2.zip"
+hash = "3d95d2d04700a1f13640ab86b9169580dfed8dd6638f6b8dfb6c3598a7f50a1e6d47765f474b5d0a9703649afdc56aeb3ac325534b5e997ae50e89da60ca0648"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "tectonic"
+version = "stwi8gQ3"

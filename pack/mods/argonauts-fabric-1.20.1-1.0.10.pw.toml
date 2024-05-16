@@ -1,0 +1,17 @@
+name = "argonauts-fabric-1.20.1-1.0.10"
+filename = "argonauts-fabric-1.20.1-1.0.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bb2EpKpx/versions/wLI6JsqG/argonauts-fabric-1.20.1-1.0.10.jar"
+hash = "f2685c6c9c388584ed2aad37187ae08087d617b269a3454b533449fd27e9f21ad0202b6c768821e91801934df0c584879965ba3a87a8d649a6a073235016108d"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "argonauts"
+version = "wLI6JsqG"

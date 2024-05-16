@@ -1,0 +1,17 @@
+name = "pride-moths-1.8+1.20.1"
+filename = "pride-moths-1.8+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z4CDikCJ/versions/AHwJ0TTu/pride-moths-1.8%2B1.20.1.jar"
+hash = "bfedf31180933c07ba99e62c8d18fa4e7271652c2975213eb53b2da55c470cbd7feceaba977b0dcee98e6bb4e120779eae0a9c4b6f95734d03e83ba1e2a656cf"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "pride-moths"
+version = "1.8+1.20-FABRIC"

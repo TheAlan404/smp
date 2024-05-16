@@ -1,0 +1,17 @@
+name = "Terralith_1.20_v2.5.0"
+filename = "Terralith_1.20_v2.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8oi3bsk5/versions/owDSctxm/Terralith_1.20_v2.5.0.jar"
+hash = "3fee331308ef67846c620c1c426c067454cda15ef68bcc5d98c21641d65dfd6ecdf7eefcecec27561495a8d91de12ab2a7e33138e96cc4c3cfc457a9c1325bd7"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "terralith"
+version = "owDSctxm"

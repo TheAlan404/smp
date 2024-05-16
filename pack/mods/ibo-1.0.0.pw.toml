@@ -1,0 +1,17 @@
+name = "ibo-1.0.0"
+filename = "ibo-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gmUU3UdW/versions/8FvVBpVp/ibo-1.0.0.jar"
+hash = "d1c13e56b1a54a84f49d4a686d7fbb274d5d76b4d1762577c40f26e7c8c1819f6e24462062b07afe695dbbeb675075fe3489905a8ea4c935c81edbf22782fd9e"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "ibo"
+version = "8FvVBpVp"
