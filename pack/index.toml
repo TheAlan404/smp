@@ -739,6 +739,24 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/noisium-fabric-2.0.3+mc1.20-1.20.1.pw.toml"
+hash = "90ab20bdad1f8377455622f89ab0b2bbcea2a91a9d72ff3a8d41e0bc2b1dfe0a"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/YetAnotherConfigLib-3.4.2+1.20.1-fabric.pw.toml"
+hash = "3360700be4aa6b7f0edcc483b79316eb656b38e11c21df79e9adebfe61ffbbea"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/Iceberg-1.20.1-fabric-1.1.18.pw.toml"
+hash = "c0b2e3b6bb75dfd772e53c20d58be02f2289710541c74c7cd0f69808ca5c506f"
+metafile = true
+preserve = false
+
+[[files]]
 file = "whitelist.json"
 hash = "028c6b9c9a5cc8d6ac684f1d964ca557e0c15414326e7dc6bc3eca81fd4a1130"
 metafile = false
