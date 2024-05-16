@@ -457,12 +457,6 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/Continents_1.20.4_v1.1.4.pw.toml"
-hash = "e9981e597a2bd97f3f6a3745b9ddb1422d27185c816a4ebaca5a782c5ddc27f2"
-metafile = true
-preserve = false
-
-[[files]]
 file = "mods/ibo-1.0.0.pw.toml"
 hash = "ab7ec3dfd8f6851659c88bd7930b9ece6e1cf4ede03284502d50255e994cecd4"
 metafile = true
@@ -759,6 +753,12 @@ preserve = false
 [[files]]
 file = "mods/fabric-seasons-delight-1.3.9-compat-1.0.pw.toml"
 hash = "ec33cfa83de0aa6dd7cf3ca4ef63289c4b677176542c9bd66b1f55bcc1336f53"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/carryon-fabric-1.20.1-2.1.2.7.pw.toml"
+hash = "815905b4a01cde9f2ed6c5ee585d03469ce579eb32086e66bb1befe555830a1e"
 metafile = true
 preserve = false
 
