@@ -650,3 +650,8 @@ version = "TD5Fv92S"
 type = "modrinth"
 id = "iceberg"
 version = "uu7sqQDO"
+
+[[mods]]
+type = "modrinth"
+id = "fabric-seasons-delight-compat"
+version = "KIzyS8hk"
