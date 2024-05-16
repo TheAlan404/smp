@@ -1,5 +1,5 @@
 name = "smp"
-version = "48839f55408ad3e2f5536ec2132820e4bc4899c3"
+version = "c3fa85d9ee3f9057f26c037a290f935a45a2e14c"
 pack-format = "packwiz:1.1.0"
 
 [index]

@@ -1,0 +1,17 @@
+name = "kawaiidishes-1.11.1"
+filename = "kawaiidishes-1.11.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v2Vpr5Uf/versions/wOqJ74ee/kawaiidishes-1.11.1.jar"
+hash = "4e2df18999b4e940d09366e17ce06979d86efe474103fe75a6dd33a6c027d4cc16ce262ce44240b947aa2bf3c41a520c72a8b9675929b450bf7a1f0fd8267152"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "kawaii-dishes"
+version = "wOqJ74ee"

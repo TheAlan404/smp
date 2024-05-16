@@ -1,0 +1,17 @@
+name = "sit-1.20-24"
+filename = "sit-1.20-24.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VKXzIykF/versions/gBDMhF2c/sit-1.20-24.jar"
+hash = "2525d5e766ce63707610ac91aeff2ff8424e2b02443c8ce2d632fb3018a008a2c42fd752cf238d0e146a6d39e6906136b2e94f05385942bab8fe92095287fd3e"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "bl4cks-sit"
+version = "gBDMhF2c"
