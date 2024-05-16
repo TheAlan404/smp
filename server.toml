@@ -655,3 +655,13 @@ version = "uu7sqQDO"
 type = "modrinth"
 id = "fabric-seasons-delight-compat"
 version = "KIzyS8hk"
+
+[[mods]]
+type = "modrinth"
+id = "origin-regen"
+version = "VDAamf7u"
+
+[[mods]]
+type = "modrinth"
+id = "regeneration"
+version = "dUG5cPJi"
