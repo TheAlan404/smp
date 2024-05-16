@@ -1,4 +1,4 @@
-Wname = "smp"
+name = ""
 mc_version = "1.20.1"
 
 [jar]
@@ -402,10 +402,6 @@ type = "modrinth"
 id = "nullscape"
 version = "zO4Fl1np"
 
-[[mods]]
-type = "modrinth"
-id = "continents"
-version = "WHW8ec8k"
 
 [[mods]]
 type = "modrinth"
@@ -657,3 +653,7 @@ type = "modrinth"
 id = "fabric-seasons-delight-compat"
 version = "KIzyS8hk"
 
+[[mods]]
+type = "modrinth"
+id = "carry-on"
+version = "Mkla4B3q"
