@@ -21,3 +21,618 @@ auto_update = false
 success_line = ""
 stop_command = ""
 
+[[mods]]
+type = "modrinth"
+id = "fabric-api"
+version = "ba99D9Qf"
+
+[[mods]]
+type = "modrinth"
+id = "better-fabric-console"
+version = "8YUqYot0"
+
+[[mods]]
+type = "modrinth"
+id = "sodium"
+version = "mhZtY2lR"
+
+[[mods]]
+type = "modrinth"
+id = "indium"
+version = "Aouse6P7"
+
+[[mods]]
+type = "modrinth"
+id = "iris"
+version = "KHQ2Hnpt"
+
+[[mods]]
+type = "modrinth"
+id = "modmenu"
+version = "lEkperf6"
+
+[[mods]]
+type = "modrinth"
+id = "lithium"
+version = "ZSNsJrPI"
+
+[[mods]]
+type = "modrinth"
+id = "entityculling"
+version = "BDwHAdWc"
+
+[[mods]]
+type = "modrinth"
+id = "ferrite-core"
+version = "unerR5MN"
+
+[[mods]]
+type = "modrinth"
+id = "spark"
+version = "XGW2fviP"
+
+[[mods]]
+type = "modrinth"
+id = "sodium-extra"
+version = "I7ggF6B5"
+
+[[mods]]
+type = "modrinth"
+id = "reeses-sodium-options"
+version = "Rc9pkPug"
+
+[[mods]]
+type = "modrinth"
+id = "memoryleakfix"
+version = "5xvCCRjJ"
+
+[[mods]]
+type = "modrinth"
+id = "simple-voice-chat"
+version = "Rd9uvDER"
+
+[[mods]]
+type = "modrinth"
+id = "lambdynamiclights"
+version = "mYl4RvKg"
+
+[[mods]]
+type = "modrinth"
+id = "krypton"
+version = "jiDwS0W1"
+
+[[mods]]
+type = "modrinth"
+id = "zoomify"
+version = "eLEIUtBo"
+
+[[mods]]
+type = "modrinth"
+id = "no-chat-reports"
+version = "HeZZR2kF"
+
+[[mods]]
+type = "modrinth"
+id = "geckolib"
+version = "qsvFEDEz"
+
+[[mods]]
+type = "modrinth"
+id = "debugify"
+version = "6XDJoCks"
+
+[[mods]]
+type = "modrinth"
+id = "emi"
+version = "spghOu2N"
+
+[[mods]]
+type = "modrinth"
+id = "emitrades"
+version = "kWMqVWTm"
+
+[[mods]]
+type = "modrinth"
+id = "emi-loot"
+version = "lwhMjJHL"
+
+[[mods]]
+type = "modrinth"
+id = "emiffect"
+version = "BslzSzGd"
+
+[[mods]]
+type = "modrinth"
+id = "extra-mod-integrations"
+version = "3MNWOVKW"
+
+[[mods]]
+type = "modrinth"
+id = "jade"
+version = "re9m40O9"
+
+[[mods]]
+type = "modrinth"
+id = "jade-addons-fabric"
+version = "8NamGveF"
+
+[[mods]]
+type = "modrinth"
+id = "create-fabric"
+version = "h2HgGyvA"
+
+[[mods]]
+type = "modrinth"
+id = "create-steam-n-rails"
+version = "AJ3IGl3n"
+
+[[mods]]
+type = "modrinth"
+id = "estrogen"
+version = "Fbz77g1I"
+
+[[mods]]
+type = "modrinth"
+id = "trinkets"
+version = "AHxQGtuC"
+
+[[mods]]
+type = "modrinth"
+id = "botarium"
+version = "5a8eybLl"
+
+[[mods]]
+type = "modrinth"
+id = "resourceful-lib"
+version = "eHrhVCDK"
+
+[[mods]]
+type = "modrinth"
+id = "simply-swords"
+version = "r5QBtUE9"
+
+[[mods]]
+type = "modrinth"
+id = "architectury-api"
+version = "WbL7MStR"
+
+[[mods]]
+type = "modrinth"
+id = "cloth-config"
+version = "J3FLptsi"
+
+[[mods]]
+type = "modrinth"
+id = "repurposed-structures-fabric"
+version = "7.1.15+1.20.1-fabric"
+
+[[mods]]
+type = "modrinth"
+id = "exposure"
+version = "AlbUxt2P"
+
+[[mods]]
+type = "modrinth"
+id = "forge-config-api-port"
+version = "CtENDTlF"
+
+[[mods]]
+type = "modrinth"
+id = "the-graveyard-fabric"
+version = "Hpn2GMza"
+
+[[mods]]
+type = "modrinth"
+id = "mythicmetals"
+version = "VsXJBAkD"
+
+[[mods]]
+type = "modrinth"
+id = "alloy-forgery"
+version = "2.1.2+1.20"
+
+[[mods]]
+type = "modrinth"
+id = "majruszs-accessories"
+version = "hC5cwNmq"
+
+[[mods]]
+type = "modrinth"
+id = "majrusz-library"
+version = "nfkUUMHq"
+
+[[mods]]
+type = "modrinth"
+id = "pride-moths"
+version = "1.8+1.20-FABRIC"
+
+[[mods]]
+type = "modrinth"
+id = "owo-lib"
+version = "zyOBB7J4"
+
+[[mods]]
+type = "modrinth"
+id = "additional-structures"
+version = "v.4.2.1-fabric"
+
+[[mods]]
+type = "modrinth"
+id = "midnightlib"
+version = "YXz8kIQl"
+
+[[mods]]
+type = "modrinth"
+id = "midnightcontrols"
+version = "xHOdr9un"
+
+[[mods]]
+type = "modrinth"
+id = "language-reload"
+version = "DpodeUOd"
+
+[[mods]]
+type = "modrinth"
+id = "fastload"
+version = "ys9T20o4"
+
+[[mods]]
+type = "modrinth"
+id = "terralith"
+version = "owDSctxm"
+
+[[mods]]
+type = "modrinth"
+id = "kawaii-dishes"
+version = "wOqJ74ee"
+
+[[mods]]
+type = "modrinth"
+id = "better-combat"
+version = "jhqZUDtT"
+
+[[mods]]
+type = "modrinth"
+id = "veinminer"
+version = "KTrObKTw"
+
+[[mods]]
+type = "modrinth"
+id = "view-distance-fix"
+version = "EkpvfTep"
+
+[[mods]]
+type = "modrinth"
+id = "travelersbackpack"
+version = "kf3NfFx1"
+
+[[mods]]
+type = "modrinth"
+id = "moth-origin"
+version = "VBAHIxmD"
+
+[[mods]]
+type = "modrinth"
+id = "fairy-origin"
+version = "7EEEMMFp"
+
+[[mods]]
+type = "modrinth"
+id = "slimeorigin"
+version = "yQzTujqg"
+
+[[mods]]
+type = "modrinth"
+id = "dcintegration"
+version = "WLOprDDs"
+
+[[mods]]
+type = "modrinth"
+id = "patchouli"
+version = "Y6tuH1cn"
+
+[[mods]]
+type = "modrinth"
+id = "farmers-delight-refabricated"
+version = "5dZdVy3m"
+
+[[mods]]
+type = "modrinth"
+id = "fabric-seasons"
+version = "uMEzKato"
+
+[[mods]]
+type = "modrinth"
+id = "fabric-seasons-extras"
+version = "H6OLpHJp"
+
+[[mods]]
+type = "modrinth"
+id = "cadmus"
+version = "kzMsPbNB"
+
+[[mods]]
+type = "modrinth"
+id = "prometheus"
+version = "QkqSEkKm"
+
+[[mods]]
+type = "modrinth"
+id = "appleskin"
+version = "xcauwnEB"
+
+[[mods]]
+type = "modrinth"
+id = "polymer"
+version = "UB9Kcuk5"
+
+[[mods]]
+type = "modrinth"
+id = "yungs-better-mineshafts"
+version = "qLnQnqXS"
+
+[[mods]]
+type = "modrinth"
+id = "yungs-api"
+version = "zPT7QfIk"
+
+[[mods]]
+type = "modrinth"
+id = "yungs-better-dungeons"
+version = "nidyvq2m"
+
+[[mods]]
+type = "modrinth"
+id = "yungs-better-ocean-monuments"
+version = "4c00pjbt"
+
+[[mods]]
+type = "modrinth"
+id = "yungs-better-nether-fortresses"
+version = "FL88RLRu"
+
+[[mods]]
+type = "modrinth"
+id = "yungs-better-strongholds"
+version = "yV6hn0bB"
+
+[[mods]]
+type = "modrinth"
+id = "nullscape"
+version = "zO4Fl1np"
+
+[[mods]]
+type = "modrinth"
+id = "continents"
+version = "WHW8ec8k"
+
+[[mods]]
+type = "modrinth"
+id = "ibo"
+version = "8FvVBpVp"
+
+[[mods]]
+type = "modrinth"
+id = "ironchests"
+version = "gioHN8Aw"
+
+[[mods]]
+type = "modrinth"
+id = "slice-and-dice"
+version = "fIWeey09"
+
+[[mods]]
+type = "modrinth"
+id = "fabric-language-kotlin"
+version = "a7MqDLdC"
+
+[[mods]]
+type = "modrinth"
+id = "yungs-bridges"
+version = "hvfjXu8d"
+
+[[mods]]
+type = "modrinth"
+id = "yungs-better-desert-temples"
+version = "1Z9HNWpj"
+
+[[mods]]
+type = "modrinth"
+id = "yungs-better-jungle-temples"
+version = "6LPrzuB0"
+
+[[mods]]
+type = "modrinth"
+id = "yungs-better-witch-huts"
+version = "lYpHN3iF"
+
+[[mods]]
+type = "modrinth"
+id = "yungs-better-strongholds"
+version = "yV6hn0bB"
+
+[[mods]]
+type = "modrinth"
+id = "immersive-melodies"
+version = "Y5ePmk5e"
+
+[[mods]]
+type = "modrinth"
+id = "playeranimator"
+version = "yDqYTUaf"
+
+[[mods]]
+type = "modrinth"
+id = "incendium"
+version = "BxVLGy3y"
+
+[[mods]]
+type = "modrinth"
+id = "silk"
+version = "3H0nUJhq"
+
+[[mods]]
+type = "modrinth"
+id = "supplementaries"
+version = "R5P1cLjK"
+
+[[mods]]
+type = "modrinth"
+id = "midnightlib"
+version = "YXz8kIQl"
+
+[[mods]]
+type = "modrinth"
+id = "chat-heads"
+version = "2n4DL7xL"
+
+[[mods]]
+type = "modrinth"
+id = "chatpatches"
+version = "C3BmhD5L"
+
+[[mods]]
+type = "modrinth"
+id = "create-deco"
+version = "GsxgfeNu"
+
+[[mods]]
+type = "modrinth"
+id = "create-track-map"
+version = "qoyYyg2G"
+
+[[mods]]
+type = "modrinth"
+id = "moonlight"
+version = "OOWX2Oij"
+
+[[mods]]
+type = "modrinth"
+id = "origins"
+version = "OdNHB7Bh"
+
+[[mods]]
+type = "modrinth"
+id = "pehkui"
+version = "czRgm3k6"
+
+[[mods]]
+type = "modrinth"
+id = "brewery"
+version = "dd1DkGEe"
+
+[[mods]]
+type = "modrinth"
+id = "create-new-age"
+version = "rk63oafd"
+
+[[mods]]
+type = "modrinth"
+id = "fabric-seasons-terralith-compat"
+version = "MJ2OF7eg"
+
+[[mods]]
+type = "modrinth"
+id = "tectonic"
+version = "stwi8gQ3"
+
+[[mods]]
+type = "modrinth"
+id = "universal-graves"
+version = "KaGNkIdU"
+
+[[mods]]
+type = "modrinth"
+id = "apugli"
+version = "PDYXapHt"
+
+[[mods]]
+type = "modrinth"
+id = "xaeros-minimap"
+version = "C2jbx7JG"
+
+[[mods]]
+type = "modrinth"
+id = "xaeros-world-map"
+version = "GOh0fFoJ"
+
+[[mods]]
+type = "modrinth"
+id = "clutter"
+version = "sPLi6J2x"
+
+[[mods]]
+type = "modrinth"
+id = "combat-roll"
+version = "rwRYD8bX"
+
+[[mods]]
+type = "modrinth"
+id = "midnightcontrols"
+version = "xHOdr9un"
+
+[[mods]]
+type = "modrinth"
+id = "inventory-management"
+version = "iYujfjuN"
+
+[[mods]]
+type = "modrinth"
+id = "rightclickharvest"
+version = "4UWabEWo"
+
+[[mods]]
+type = "modrinth"
+id = "easy-anvils"
+version = "pA1enJAS"
+
+[[mods]]
+type = "modrinth"
+id = "puzzles-lib"
+version = "ZHG4YWEj"
+
+[[mods]]
+type = "modrinth"
+id = "chunky"
+version = "NHWYq9at"
+
+[[mods]]
+type = "modrinth"
+id = "sparsestructures"
+version = "jIL7tzWW"
+
+[[mods]]
+type = "modrinth"
+id = "argonauts"
+version = "wLI6JsqG"
+
+[[mods]]
+type = "modrinth"
+id = "item-highlighter"
+version = "vyEyvJgV"
+
+[[mods]]
+type = "modrinth"
+id = "immersive-paintings"
+version = "UjL11A4h"
+
+[[mods]]
+type = "modrinth"
+id = "continuity"
+version = "84Zs6tNo"
+
+[[mods]]
+type = "modrinth"
+id = "entityculling"
+version = "BDwHAdWc"
+
+
+[[mods]]
+type = "modrinth"
+id = "bl4cks-sit"
+version = "gBDMhF2c"
+
+[[mods]]
+type = "modrinth"
+id = "jamlib"
+version = "vVYtBiuW"
