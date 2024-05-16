@@ -1,7 +1,6 @@
 name = "smp"
 mc_version = "1.20.1"
 
-
 [jar]
 type = "fabric"
 loader = "latest"
@@ -627,7 +626,6 @@ type = "modrinth"
 id = "entityculling"
 version = "BDwHAdWc"
 
-
 [[mods]]
 type = "modrinth"
 id = "bl4cks-sit"
@@ -637,3 +635,18 @@ version = "gBDMhF2c"
 type = "modrinth"
 id = "jamlib"
 version = "vVYtBiuW"
+
+[[mods]]
+type = "modrinth"
+id = "noisium"
+version = "uTdy9g9c"
+
+[[mods]]
+type = "modrinth"
+id = "yacl"
+version = "TD5Fv92S"
+
+[[mods]]
+type = "modrinth"
+id = "iceberg"
+version = "uu7sqQDO"
