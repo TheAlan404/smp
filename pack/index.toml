@@ -817,6 +817,18 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/artifacts-fabric-9.5.5.pw.toml"
+hash = "a1ad2b868edbc79c44404400fd01df940fa6c1e5f8318bcd637e16e45a70e2fe"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/trinkets-3.7.2.pw.toml"
+hash = "66447e699dcf231ed70e88120a770c0198996a28ccefb3aea045488e19823d63"
+metafile = true
+preserve = false
+
+[[files]]
 file = "whitelist.json"
 hash = "028c6b9c9a5cc8d6ac684f1d964ca557e0c15414326e7dc6bc3eca81fd4a1130"
 metafile = false

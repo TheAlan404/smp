@@ -1,0 +1,17 @@
+name = "artifacts-fabric-9.5.5"
+filename = "artifacts-fabric-9.5.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/gbxaQJBL/artifacts-fabric-9.5.5.jar"
+hash = "04f0f21fec791ae6a9a1beeb27c2368f9380e6457c3eed84fc881736ef5babb1c4432c8e2536bf2c09dc64217328d6275a7b73efabdf846beb753fbd7bca9083"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "artifacts"
+version = "gbxaQJBL"
