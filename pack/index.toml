@@ -763,6 +763,54 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/figura-0.1.4+1.20.1-fabric-mc.pw.toml"
+hash = "ef81cfd8e34185d29958465e1f75777a6fe0810ef53e7f46283be550845a10bf"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/treeharvester-1.20.1-8.7.pw.toml"
+hash = "ed271587f0a85273c08868c6effebe330fb9d36b25d6000d72820ccdaca3f632"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/soulslike-weaponry-1.1.3-1.20-fabric.pw.toml"
+hash = "f53e9bd6eba99937b09f8aedc29d24d9a8a33431ba4e7369c63e6c2047a0c590"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/originsumbrellas-1.5.6.pw.toml"
+hash = "12636c3b9c9e3375d74a21af26d07ba4a65d62ee0ade1c3faaa4e8afc0c60074"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/AttributeFix-Fabric-1.20.1-21.0.4.pw.toml"
+hash = "17e0322e8e67a91187acb204e1e78792edec45a4a7fac7e5b29ab55c890fcd5e"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/NaturesCompass-1.20.1-2.2.3-fabric.pw.toml"
+hash = "7ea8d98266396d7e9d69c5e3947fc8b6f2eb255adf550aadb54fe6d4c3024a45"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/geckolib-fabric-1.20.1-4.4.4.pw.toml"
+hash = "688f0c820f5638b640c799e6d6e00fab5eb7a06ff1026a7a33cdf07b4bdf6800"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/storagedelight-1.1.1-1.20.1-fabric.pw.toml"
+hash = "e8c59b2827fdfb83efb34224aa4a1714eae05c457e7716a79477dbdcac437ed1"
+metafile = true
+preserve = false
+
+[[files]]
 file = "whitelist.json"
 hash = "028c6b9c9a5cc8d6ac684f1d964ca557e0c15414326e7dc6bc3eca81fd4a1130"
 metafile = false

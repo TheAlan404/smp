@@ -1,0 +1,17 @@
+name = "storagedelight-1.1.1-1.20.1-fabric"
+filename = "storagedelight-1.1.1-1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LTTvOp5L/versions/xmjTcYVP/storagedelight-1.1.1-1.20.1-fabric.jar"
+hash = "beb50226404b46bc3813230df23be9e757ef7c0fb23524be1c14591a09e0ccd25b103dfe13e446d3f6f5bb802daee2fd85cc52fdecaefdb20ed6300ee8d5ab43"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "storage-delight"
+version = "1.1.1-1.20.1-fabric"

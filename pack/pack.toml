@@ -1,14 +1,14 @@
 name = ""
-version = "95e53c152e4f1170784e51c2123f9113341c5d51"
+version = "1389f267b7e6db56cdab5218da52988eef5c7be8"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
-hash = "f6b1e4590c5a019b7e92a66783bf5c0b8850f721e0aadd99ddfdd1a63922fc55"
+hash = "0fe0cb8399fa87a49b441d7dcc1a2fa5c4fb15b93de40dff316a4b8954d1c268"
 hash-format = "sha256"
 metafile = false
 preserve = false
 
 [versions]
-minecraft = "1.20.1"
 fabric = "0.15.11"
+minecraft = "1.20.1"
