@@ -711,3 +711,18 @@ version = "gbxaQJBL"
 type = "modrinth"
 id = "trinkets"
 version = "AHxQGtuC"
+
+[[mods]]
+type = "modrinth"
+id = "lootr"
+version = "0.7.30.77"
+
+[[mods]]
+type = "modrinth"
+id = "tax-free-levels"
+version = "AlYgBMY1"
+
+[[mods]]
+type = "modrinth"
+id = "polymorph"
+version = "akZJjqpV"
