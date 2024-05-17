@@ -1,0 +1,17 @@
+name = "TaxFreeLevels-1.3.12-fabric-1.20.2"
+filename = "TaxFreeLevels-1.3.12-fabric-1.20.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jCBrrLTs/versions/AlYgBMY1/TaxFreeLevels-1.3.12-fabric-1.20.2.jar"
+hash = "fc9464de9c8770ea70aca2e503d9a7bb23bbd6ba66b9fa5ede3ddae73fd34340f424f6885252c93dbf199335b6a71012fdeab2d26332686af9dd6a42417a5b6a"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "tax-free-levels"
+version = "AlYgBMY1"
