@@ -685,12 +685,6 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/sparsestructures-2.1.2.pw.toml"
-hash = "33503d4774545285af5954177ac287a6c8bd16e3d0f897c549e8de322c0de045"
-metafile = true
-preserve = false
-
-[[files]]
 file = "mods/argonauts-fabric-1.20.1-1.0.10.pw.toml"
 hash = "2d36c1051c63c0ec62643655f9da7829e55ea8d9c4b8d78a14a779ca831a449f"
 metafile = true
@@ -843,6 +837,42 @@ preserve = false
 [[files]]
 file = "mods/polymorph-fabric-0.49.3+1.20.1.pw.toml"
 hash = "df3df8fabe5c77c07b98392119dadc27008c9a2cbaa05c4f3ed95330f3712626"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/async-locator-fabric-1.20-1.3.0.pw.toml"
+hash = "df3986880193ff4ab89380de3d5db1ed6dfd8998bcc2a52d963abdc93d58d770"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/letmedespawn-fabric-1.20.x-1.2.0.pw.toml"
+hash = "7ca3c58831e9ea42a7b5d96088524043ee498a690c5a4cf19c8badfd47917768"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/threadtweak-fabric-1.20.2-0.1.1.pw.toml"
+hash = "70fb9d126c36c736642328376481a246507e607cf09080c57d109cf64d2d4156"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/threadtweak-fabric-1.20.2-0.1.1.pw.toml"
+hash = "70fb9d126c36c736642328376481a246507e607cf09080c57d109cf64d2d4156"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/fasterrandom-4.1.0.pw.toml"
+hash = "fd889878b973d9c16ff21d252033a084898a883d55c1be2d859df0200fb3d848"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/starlight-1.1.2+fabric.dbc156f.pw.toml"
+hash = "aa26e45ab62ce9e7ea6520802ae646a235ee81fd4be8f51b48acf5b2f44f41f5"
 metafile = true
 preserve = false
 
