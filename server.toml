@@ -594,11 +594,6 @@ version = "NHWYq9at"
 
 [[mods]]
 type = "modrinth"
-id = "sparsestructures"
-version = "jIL7tzWW"
-
-[[mods]]
-type = "modrinth"
 id = "argonauts"
 version = "wLI6JsqG"
 
@@ -726,3 +721,33 @@ version = "AlYgBMY1"
 type = "modrinth"
 id = "polymorph"
 version = "akZJjqpV"
+
+[[mods]]
+type = "modrinth"
+id = "async-locator"
+version = "xXhZI4u3"
+
+[[mods]]
+type = "modrinth"
+id = "lmd"
+version = "qpC0XlcW"
+
+[[mods]]
+type = "modrinth"
+id = "threadtweak"
+version = "gBP1GqtK"
+
+[[mods]]
+type = "modrinth"
+id = "threadtweak"
+version = "gBP1GqtK"
+
+[[mods]]
+type = "modrinth"
+id = "faster-random"
+version = "I8jy69I9"
+
+[[mods]]
+type = "modrinth"
+id = "starlight"
+version = "XGIsoVGT"
