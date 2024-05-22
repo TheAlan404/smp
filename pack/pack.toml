@@ -1,10 +1,10 @@
 name = ""
-version = "f9071f18e3c41e0efb8952a0441ccd5899d6f9f0"
+version = "3b4fc6a0d5ac3a0bfb46d87ec939ebfc89664c6b"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
-hash = "bf9801ff593411886dd26e78eaba9a0f921eee4a4ac622eac1dd5a8eb5a1742d"
+hash = "31904b7c52d561e8668c6dc8777a6c9449a3a6371002e3c7fadf8594061c0e90"
 hash-format = "sha256"
 metafile = false
 preserve = false

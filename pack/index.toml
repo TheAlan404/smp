@@ -349,12 +349,6 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/fairy-origin-2.0.0.pw.toml"
-hash = "e10b19ed0be3475fafe14870a2c009972283dec9c64c32517bc232728d4c58aa"
-metafile = true
-preserve = false
-
-[[files]]
 file = "mods/slimeorigin-2.0.2-1.20.0.pw.toml"
 hash = "be5800a37dc1f0b396e8a49d98ddbe079a0503acb3b3c388d24aed9220e07acb"
 metafile = true
@@ -871,8 +865,26 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/starlight-1.1.2+fabric.dbc156f.pw.toml"
-hash = "aa26e45ab62ce9e7ea6520802ae646a235ee81fd4be8f51b48acf5b2f44f41f5"
+file = "mods/cccbridge-mc1.20.1-fabric-v1.6.2b.pw.toml"
+hash = "419008e5d5a38ce9f601d90b7ecb554e54089e41a406c57600c4ba797ad79a91"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/cc-tweaked-1.20.1-fabric-1.110.3.pw.toml"
+hash = "6fa448caf373577a938e4dd6fc947273dede41bbeb1e73ea0058041d28fd4a8a"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/enchantment-transfer-0.0.6-fabric-1.20.1.pw.toml"
+hash = "e171614c69c49e0b0beabc43b7d66cebb80e6305ff2f2fec6fc802cbcbe0a6ca"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/tick-stasis-1.1.0.pw.toml"
+hash = "f9aa9682488de363d04b5a10625d64496527c831d745ad1af34573de3a6bde85"
 metafile = true
 preserve = false
 
