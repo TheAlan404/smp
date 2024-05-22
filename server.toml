@@ -312,10 +312,6 @@ type = "modrinth"
 id = "moth-origin"
 version = "VBAHIxmD"
 
-[[mods]]
-type = "modrinth"
-id = "fairy-origin"
-version = "7EEEMMFp"
 
 [[mods]]
 type = "modrinth"
@@ -749,5 +745,20 @@ version = "I8jy69I9"
 
 [[mods]]
 type = "modrinth"
-id = "starlight"
-version = "XGIsoVGT"
+id = "cccbridge"
+version = "1.6.2b-fabric"
+
+[[mods]]
+type = "modrinth"
+id = "cc-tweaked"
+version = "ekffpGYP"
+
+[[mods]]
+type = "modrinth"
+id = "enchantment-transfer"
+version = "FL3LK1x8"
+
+[[mods]]
+type = "modrinth"
+id = "tick-stasis"
+version = "30ak0J3Q"
